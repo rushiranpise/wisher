@@ -55,7 +55,7 @@ $text_finger2 = "Scan your finger to view your surprising gift.";
 ****************************************************************/
 
 /***    رابط الموقع    ***/
-$sharing_url = "https://website.com";
+$sharing_url = "https://rushiranpise.github.io/wisher/";
 
 /***    رسالة الوتساب     ***/
 $sharing_message = $name." You have a special surprise gift Here"; 

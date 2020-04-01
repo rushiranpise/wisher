@@ -1,6 +1,7 @@
-# Wishing-Happy-BD
-Wishing Happy BD is a small viral script encoded in HTML, PHP, JS, and CSS.
+# Happy Birthda Wisher
 
-<strong>Wishing Happy BD</strong> is a small whatsapp & facebook viral application encoded in <code>HTML</code>, <code>PHP</code>, <code>JS</code>, and <code>CSS</code>. 
+It is a small script encoded in <code>HTML</code>, <code>PHP</code>, <code>JS</code>, and <code>CSS</code>. 
+You can generate and send birthday wisher over Whatsapp & Facebook. :)
+ 
 
-<b><a target="_blank" href="http://happy.freevar.com" >DEMO HERE</a></b>
+<b><a target="_blank" href="http://rushiranpise.github.io/wisher" >DEMO HERE</a></b>
